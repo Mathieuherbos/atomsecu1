@@ -440,6 +440,8 @@ p, address {
 }
 
 .tm-gallery-img {
+  width:230px;
+  height:230px;
   margin-bottom: 20px;
   border-radius: 20px;
         background: #ffffff;
